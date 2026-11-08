@@ -9,15 +9,15 @@ tags = ["1990s", "retro", "juegos"]
 [params]
 category = "entretenimiento"
 hero_image = "https://i.imgur.com/yjUqHNf.png"
-project_url = "http://supermuseum.netlify.app"
-contact_url = "http://supermuseum.netlify.app"
+project_url = "http://supermuseum.cc"
+contact_url = "http://supermuseum.cc"
 
 [params.author]
 name = "livercake"
 avatar = "https://github.com/livercake.png"
 github_url = "https://github.com/livercake"
 role = "Curador"
-contact_url = "http://supermuseum.netlify.app"
+contact_url = "http://supermuseum.cc"
 twitter_url = "http://x.com/livercake"
 +++
 Cartuchos, disquetes, ROMs, chips especializados, placas arcade, jumpers, revisiones de hardware, tamaños de memoria que hoy parecen insignificantes y arquitecturas completamente incompatibles entre sí forman parte del mundo que SuperMuseum busca documentar y representar. No solamente como una colección de juegos, sino como evidencia de una manera particular de diseñar software: una época en la que cada byte, cada ciclo de procesador y cada decisión técnica importaban.
